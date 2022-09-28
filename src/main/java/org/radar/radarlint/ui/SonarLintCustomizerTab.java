@@ -7,7 +7,6 @@ import javax.swing.JComponent;
 import org.netbeans.api.project.Project;
 import org.netbeans.api.project.ProjectUtils;
 import org.netbeans.spi.project.ui.support.ProjectCustomizer;
-import org.openide.util.Exceptions;
 import org.openide.util.Lookup;
 import org.openide.windows.WindowManager;
 import org.radar.radarlint.EditorAnnotator;
